@@ -12,7 +12,7 @@ when phone.txt is example txt source.
 
 run the following queries:
 
-‫‪* word‬‬
+‫‪* word
 ‫‪* NOT‬‬ ‫‪word
 * word1‬‬ ‫‪AND‬‬ ‫‪word2‬‬ ‫‪
 * word1‬‬ ‫‪OR‬‬ ‫‪word2‬‬ ‫‪
