@@ -13,10 +13,10 @@ when phone.txt is example txt source.
 run the following queries:
 ‫‪
 * NOT‬‬ ‫‪word 
-‫‪* word
 * word1‬‬ ‫‪AND‬‬ ‫‪word2‬‬ ‫‪	
 * word1‬‬ ‫‪OR‬‬ ‫‪word2‬‬ ‫‪
 * word1‬‬ ‫‪n‬‬ ‫‪word2‬‬ ‫
+* word
 
  
 else will show:
