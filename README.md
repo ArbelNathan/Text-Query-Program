@@ -11,9 +11,9 @@ run
 when phone.txt is example txt source.
 
 run the following queries:
-
+‫‪
+* NOT‬‬ ‫‪word 
 ‫‪* word
-‫‪* NOT‬‬ ‫‪word 
 * word1‬‬ ‫‪AND‬‬ ‫‪word2‬‬ ‫‪	
 * word1‬‬ ‫‪OR‬‬ ‫‪word2‬‬ ‫‪
 * word1‬‬ ‫‪n‬‬ ‫‪word2‬‬ ‫
